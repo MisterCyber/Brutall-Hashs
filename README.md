@@ -33,11 +33,16 @@ A função Hash é qualquer algoritmo que mapeie dados grandes e de tamanho vari
 
 • Descriptografar hash Sha512
 
+
 [▪] Tipos de Hashs que pode ser gerada
 
 • Gera hash Md5
+
 • Gera hash sha1
+
 • Gera hash sha256
+
 • Gera hash sha384
+
 • Gera hash sha512
 
