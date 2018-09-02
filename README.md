@@ -36,4 +36,3 @@ A função Hash é qualquer algoritmo que mapeie dados grandes e de tamanho vari
 • Gera hash sha384
 • Gera hash sha512
 
- 
