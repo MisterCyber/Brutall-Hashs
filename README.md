@@ -24,11 +24,8 @@ A função Hash é qualquer algoritmo que mapeie dados grandes e de tamanho vari
 • Descriptografar hash Md5
 • Descriptografar hash Sha1
 • Descriptografar hash Sha256
-
 • Descriptografar hash Sha356
-
 • Descriptografar hash Sha384
-
 • Descriptografar hash Sha512
 
 
