@@ -4,7 +4,6 @@ O que é um hash?
 
 A função Hash é qualquer algoritmo que mapeie dados grandes e de tamanho variável para pequenos dados de tamanho fixo. É como uma impressão digital dos dados.
 
- função
 
 
 
@@ -33,13 +32,9 @@ A função Hash é qualquer algoritmo que mapeie dados grandes e de tamanho vari
 
 [▪] Tipos de Hashs que pode ser gerada
 
-• Gera hash Md5
-
-• Gera hash sha1
-
-• Gera hash sha256
-
-• Gera hash sha384
-
-• Gera hash sha512
+• Gera hash Md5<br>
+• Gera hash sha1<br>
+• Gera hash sha256<br>
+• Gera hash sha384<br>
+• Gera hash sha512<br>
 
