@@ -1,5 +1,5 @@
 # Brutall-Hashs
-Brutall-Hashs
+Brutall-Hashs<br><br>
 O que é um hash?
 
 A função Hash é qualquer algoritmo que mapeie dados grandes e de<br> tamanho variável para pequenos dados de tamanho fixo. É como uma impressão digital dos dados.
