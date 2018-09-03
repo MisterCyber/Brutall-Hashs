@@ -12,7 +12,7 @@ A função Hash é qualquer algoritmo que mapeie dados grandes e de<br> tamanho 
 • apt-get update<br>
 • apt-get install python3 -y<br>
 • apt-get install git -y<br>
-• git clone https://github.com/MisterCyber/Brutall-Hashs.git<br>
+• git clone https://github.com/MisterCyber/Brutall-Hashs<br>
 • cd Brutall-Hashs<br>
 • chmod +x Brutall-Hashs.py<br>
 • python3 Brutall-Hashs.py<br>
